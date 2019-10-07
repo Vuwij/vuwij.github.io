@@ -15,4 +15,15 @@ Research interests
 
 I am also currently doing undergraduate capstone project on underactuated systems (https://en.wikipedia.org/wiki/Underactuation). An underactuated system is a system with fewer control torques than degrees of motion. An example of an underactuated system is the double pendulum. Where only one motor is controlling two degrees of freedom. We are currently still working on this project. Progress on the robot can be found here (https://github.com/Vuwij/acrobot)
 
-I am also currently working on a quadcopter project. However this is not an ordinary quadcopter. This quadcopter has only two propellors and 2 airelons, and its designed to be able to fly with only two propellors. I am currently working on the simulation and the computer vision of this project and hopefully at the end of the year be able to dock two tailsitter robots into each other while in flying motion. Basic
+<img src='/images/underactuated.png'>
+
+I am also currently working with my principal investigator Jonathan Kelly on a quadcopter project. However this is not an ordinary quadcopter. This quadcopter has only two propellors and 2 airelons, and its designed to be able to fly with only two propellors. I am currently working on the simulation and the computer vision of this project and hopefully at the end of the year be able to dock two tailsitter robots into each other while in flying motion.
+
+<img src='/images/tailsitter.png'>
+<img src='/images/tailsitter_2.png'>
+
+During my PEY I worked on a multi-agent robot system at Rapyuta Robotics(https://www.rapyuta-robotics.com/), a cloud robotics platform for improving warehouse efficiency by creating item delivery robots to reduce the time that warehouse workers needed to take. The system improved the efficiency of workers by 40% and reduced the amount of steps humans needed to take. I created a end-to-end docker and ROS multi-robot simulation that works on the cloud for up to 30 robots. Each of the robots in the picture are not just simulated. The entire system including the dispatcher and the inventory management system as well as all the communication bridges between the robots was all put into a development environment.
+
+<img src='/images/multi_agent.png'>
+
+Image of the simulation I used at work (Cannot provide too much information about this as I signed an NDA)
